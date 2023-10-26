@@ -41,3 +41,8 @@
 # f =open('Picture1.jpg','rb')
 # #f =open('Picture1.jpg','wb')
 # f.read()
+
+#2nd person in the team is working o this file
+
+def function(thread):
+    print("Hello")
